@@ -29,8 +29,6 @@ Projeyi ve tüm alt modülleri keşfetmek için aşağıdaki linkleri kullanabil
 ## 🛠️ Kullanılan Teknolojiler
 
 - **Temel:** HTML5, CSS3, JavaScript (ES6+)
-- **Grafik & 3D:** (Varsa Three.js, Canvas veya WebGL kullanıyorsanız buraya ekleyin)
-- **Araçlar:** (Varsa kullandığınız build araçlarını yazın, örn: Vite, Webpack)
 
 ## 📂 Projeyi Çalıştırma
 
