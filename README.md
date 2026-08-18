@@ -21,9 +21,8 @@ Projeyi ve tüm alt modülleri keşfetmek için aşağıdaki linkleri kullanabil
 | :--- | :--- | :--- |
 | 🏠 **Ana Sayfa** | Tüm içeriklerin ana üssü | [byteomi.com](https://byteomi.com) |
 | 🧠 **Algoritmalar** | Veri yapıları ve görsel algoritma simülasyonları | (https://byteomi.com/pages/algo/algo-entry.html) |
-| ⚙️ **Sistemler & Simülasyon** | Data Structure Algoritmaları Simülasyonları | []() |
+| ⚙️ **Sistemler & Simülasyon** | Data Structure Algoritmaları Simülasyonları | [](https://byteomi.com/pages/simulations/data-structure-simulations.html) |
 | 🎨 **UI LAB** | Modern UI/UX desenleri ve mikro etkileşim prototipleri | (https://byteomi.com/pages/ui-lab/ui-lab.html) |
-| 📐 **3D Deneyler** | WebGL ve Three.js ile oluşturulmuş 3D sahneler | *(Varsa ekle, yoksa bu satırı sil)* |
 
 > 💡 *Tüm modüller doğrudan tarayıcıda çalışır, herhangi bir kurulum gerektirmez.*
 
