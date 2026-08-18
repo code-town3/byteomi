@@ -13,9 +13,19 @@ Bu repo sadece bir web sitesi değil, aynı zamanda çok disiplinli bir mühendi
 - **Sistemler (Systems):** Karmaşık mühendislik sistemlerinin modellenmesi ve analiz araçları.
 - **UI LAB:** Modern UI/UX tasarım desenleri, mikro etkileşimler ve kullanıcı deneyimi prototipleri.
 
-## 🚀 Canlı Demo
+## 🚀 Canlı Demo & Modüller
 
-Projenin tüm modüllerini canlı olarak incelemek için: [https://byteomi.com](https://byteomi.com)
+Projeyi ve tüm alt modülleri keşfetmek için aşağıdaki linkleri kullanabilirsiniz:
+
+| Kategori | Açıklama | Canlı Link |
+| :--- | :--- | :--- |
+| 🏠 **Ana Sayfa** | Tüm içeriklerin ana üssü | [byteomi.com](https://byteomi.com) |
+| 🧠 **Algoritmalar** | Veri yapıları ve görsel algoritma simülasyonları | *(Buraya kendi URL'ni ekle, örn: /pages/algorithms)* |
+| ⚙️ **Sistemler & Simülasyon** | Mekanik sistemler, dişli oranları, fizik motoru | [Dişli Simülasyonu](https://byteomi.com/pages/systems/mechanical-systems/gear-ratio-simulation.html) |
+| 🎨 **UI LAB** | Modern UI/UX desenleri ve mikro etkileşim prototipleri | *(Buraya kendi URL'ni ekle, örn: /pages/ui-lab)* |
+| 📐 **3D Deneyler** | WebGL ve Three.js ile oluşturulmuş 3D sahneler | *(Varsa ekle, yoksa bu satırı sil)* |
+
+> 💡 *Tüm modüller doğrudan tarayıcıda çalışır, herhangi bir kurulum gerektirmez.*
 
 ## 🛠️ Kullanılan Teknolojiler
 
