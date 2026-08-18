@@ -20,7 +20,7 @@ Projeyi ve tüm alt modülleri keşfetmek için aşağıdaki linkleri kullanabil
 | Kategori | Açıklama | Canlı Link |
 | :--- | :--- | :--- |
 | 🏠 **Ana Sayfa** | Tüm içeriklerin ana üssü | [byteomi.com](https://byteomi.com) |
-| 🧠 **Algoritmalar** | Veri yapıları ve görsel algoritma simülasyonları | *(Buraya kendi URL'ni ekle, örn: /pages/algorithms)* |
+| 🧠 **Algoritmalar** | Veri yapıları ve görsel algoritma simülasyonları | *(https://byteomi.com/pages/algo/algo-entry.html)* |
 | ⚙️ **Sistemler & Simülasyon** | Mekanik sistemler, dişli oranları, fizik motoru | [Dişli Simülasyonu](https://byteomi.com/pages/systems/mechanical-systems/gear-ratio-simulation.html) |
 | 🎨 **UI LAB** | Modern UI/UX desenleri ve mikro etkileşim prototipleri | *(Buraya kendi URL'ni ekle, örn: /pages/ui-lab)* |
 | 📐 **3D Deneyler** | WebGL ve Three.js ile oluşturulmuş 3D sahneler | *(Varsa ekle, yoksa bu satırı sil)* |
