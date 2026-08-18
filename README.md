@@ -20,16 +20,16 @@ Projeyi ve tüm alt modülleri keşfetmek için aşağıdaki linkleri kullanabil
 | Kategori | Açıklama | Canlı Link |
 | :--- | :--- | :--- |
 | 🏠 **Ana Sayfa** | Tüm içeriklerin ana üssü | [byteomi.com](https://byteomi.com) |
-| 🧠 **Algoritmalar** | Veri yapıları ve görsel algoritma simülasyonları | (https://byteomi.com/pages/algo/algo-entry.html) |
-| ⚙️ **Sistemler & Simülasyon** | Data Structure Algoritmaları Simülasyonları | [](https://byteomi.com/pages/simulations/data-structure-simulations.html) |
-| 🎨 **UI LAB** | Modern UI/UX desenleri ve mikro etkileşim prototipleri | (https://byteomi.com/pages/ui-lab/ui-lab.html) |
+| 🧠 **Algoritmalar** | Veri yapıları ve görsel algoritma simülasyonları | [algo-entry](https://byteomi.com/pages/algo/algo-entry.html) |
+| ⚙️ **Sistemler & Simülasyon** | Data Structure Algoritmaları Simülasyonları | [data-structure-simulations](https://byteomi.com/pages/simulations/data-structure-simulations.html) |
+| 🎨 **UI LAB** | Modern UI/UX desenleri ve mikro etkileşim prototipleri | [ui-lab](https://byteomi.com/pages/ui-lab/ui-lab.html) |
 
 > 💡 *Tüm modüller doğrudan tarayıcıda çalışır, herhangi bir kurulum gerektirmez.*
 
 ## 🛠️ Kullanılan Teknolojiler
 
 - **Temel:** HTML5, CSS3, JavaScript (ES6+)
-- **Grafik & 3D:** (Eğer Three.js, Canvas veya WebGL kullanıyorsanız buraya yazın, yoksa bu satırı silin)
+- **Grafik & 3D:** (Varsa Three.js, Canvas veya WebGL kullanıyorsanız buraya ekleyin)
 - **Araçlar:** (Varsa kullandığınız build araçlarını yazın, örn: Vite, Webpack)
 
 ## 📂 Projeyi Çalıştırma
