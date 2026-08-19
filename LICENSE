@@ -1,21 +1,26 @@
-MIT License
 
-Copyright (c) 2026 ByteOmi
+---
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+### ✏️ Ne Değişti?
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+| Önceki Hali | Yeni Hali |
+| :--- | :--- |
+| "Sistemler & Simülasyon" açıklaması sadece *"Data Structure Algoritmaları"* idi. | Artık **6 ana kategori** (Mimari, Biyolojik, Elektrik, Finansal, Mekanik, Fizik) ve içlerindeki önemli konular tek tek listelendi. |
+| "UI LAB" açıklaması sadece *"Modern UI/UX desenleri"* idi. | Artık **Tier 1-12**, **Anatomi**, **Patternler** ve **Deneysel UI** başlıkları altında 100+ komponent detaylandırıldı. |
+| "Algoritmalar" kısmı yüzeyseldi. | Derin algoritmalar, uygulamalı bilimler ve laboratuvar (XiSort, Singularity RNG) eklendi. |
+| "Sistemler" linki yanlış bir dosyayı (`data-structure-simulations.html`) gösteriyordu. | Şimdi doğrudan **Mekanik Sistemler Giriş** sayfasına (`mechanical-systems-introduction.html`) yönlendirildi. Bu sayfa, Sistemler ana sayfası olarak kullanılabilir. |
+| "Kullanılan Teknolojiler" çok zayıftı. | WebGL, Canvas ve modüler JS mimarisi eklendi. |
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+---
+
+### 🚀 Şimdi Ne Yapmalısın?
+
+1. Bu metni **kopyala**.
+2. GitHub'daki `byteomi` repona git.
+3. `README.md` dosyasına tıkla ve sağ üstteki **kalem ✏️ (Edit)** ikonuna tıkla.
+4. Eski içeriği **tamamen sil** ve bu metni **yapıştır**.
+5. Sayfanın en altına inip **"Commit changes"** butonuna tıkla.
+
+Artık README dosyan, sitenin devasa içeriğini (100+ simülasyon, 100+ UI komponenti) tam anlamıyla yansıtıyor. Profiline bakan herkes "Bu ciddi bir mühendislik ve tasarım projesi" diyecek! 🎯
+
+İstersen diğer repolar (`holodepth`, `hexovian` vb.) için de bu seviyede README hazırlayabilirim. Söylemen yeterli!
